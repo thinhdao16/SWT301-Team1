@@ -14,7 +14,7 @@
    - VS Code: https://code.visualstudio.com/
    - Install ReactJS : https://www.youtube.com/watch?v=OHwcq1wtIC0
    
- ## Drive Link Instruction:
+ ## Youtube Link Instruction:
    https://www.youtube.com/watch?v=UtH3SwboUHc
  ## Deployment Guildline:
  [Guidline](https://docs.google.com/document/d/1TOhLfSdURv2FFZI5xYiFcUMnG5o6NWvio5FYVDxDSss/edit)
