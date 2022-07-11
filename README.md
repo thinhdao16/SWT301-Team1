@@ -20,5 +20,5 @@
  [Guidline](https://docs.google.com/document/d/1TOhLfSdURv2FFZI5xYiFcUMnG5o6NWvio5FYVDxDSss/edit)
  ## Selnium: 
  
-![image](https://user-images.githubusercontent.com/92748487/178310075-85aab16a-f3c0-4441-a3d7-21668b7b2a02.png)
+![image](https://user-images.githubusercontent.com/92748487/178311883-d01174c3-055e-48ea-b923-a052496a2d62.png)
 
